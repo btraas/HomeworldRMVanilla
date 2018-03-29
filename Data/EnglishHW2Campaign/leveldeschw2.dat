@@ -1,0 +1,70 @@
+filerange 6400 6463
+rangestart 6400 6463
+
+// Subtitles
+6400	M01 %d Mission Start
+6401	M01 %d Vaygr Attack
+6402	M01 %d Protect the Mothership
+6403	M02 %d Mission Start
+6404	M02 %d Destroy Fighter Facility
+6405	M02 %d Captain Soban Arrives
+6406	M02 %d Destroy Vaygr Carrier
+6407	M02 %d Coordinates set for Sarum
+6408	M03 %d Mission Start
+6409	M03 %d Shipyard Repaired
+6410	M03 %d Shipyard Under Attack
+6411	M03 %d Vaygr Inflitrators Defeated
+6412	M03 %d Shipyard Boarded
+6413	M03 %d Shipyard Safe
+6414	M04 %d Mission Start
+6415	M04 %d Inhibitors Destroyed
+6416	M04 %d Destroy Command Station
+6417	M05 %d Mission Start
+6418	M05 %d Vaygr Garrisons Destroyed
+6419	M05 %d Destroy Vaygr Shipyard
+6420	M05 %d Vaygr Shipyard Destroyed
+6421	M05 %d Oracle Retrieval
+6422	M06 %d Mission Start
+6423	M06 %d Movers Attack
+6424	M06 %d Mothership Returned
+6425	M06 %d Mover Salvaged
+6426	M06 %d Mover Reengineered
+6427	M06 %d AntiMover Research Complete
+6428	M06 %d Mothership Returned Again
+6429	M07 %d Mission Start
+6430	M07 %d Mover Construction Online
+6431	M08 %d Mission Start
+6432	M08 %d Retrieve Dreadnaught
+6433	M08 %d Dreadnaught Retrieved
+6434	M08 %d Collect Devices
+6435	M08 %d Distortion Field Activated
+6436	M09 %d Mission Start
+6437	M09 %d Shipyard Nabaal Arrived
+6438	M09 %d Repairs Begun
+6439	M09 %d Repairs Complete
+6440	M10 %d Mission Start
+6441	M10 %d Bentusi Arrival
+6442	M10 %d Dreadnaught Repaired
+6443	M11 %d Mission Start
+6444	M11 %d Incoming Vaygr
+6445	M11 %d All Cores Retrieved
+6446	M12 %d Mission Start
+6447	M12 %d Makaan Arrives
+6448	M12 %d Marines Required
+6449	M12 %d Escort Soban
+6450	M12 %d Soban is Safe
+6451	M13 %d Mission Start
+6452	M13 %d Balcora Gate Safe
+6453	M13 %d Destroy Vaygr Shipyard
+6454	M13 %d Vaygr Shipyard Destroyed
+6455	M14 %d Mission Start
+6456	M14 %d Destroy Makaan
+6457	M14 %d Makaan Damaged
+6458	M14 %d Destroy Vaygr Shipyard
+6459	M14 %d Vaygr Shipyard Destroyed
+6460	M15 %d Mission Start
+6461	M15 %d Planet Killers Arrive
+6462	M15 %d First Platform Destroyed
+6463	M15 %d Second Platform Destroyed
+
+rangeend
